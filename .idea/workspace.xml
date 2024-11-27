@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e99ae726-491d-43d9-8b35-b531b9b2fd51" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/superlets_package/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/demo.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/demo/demo.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/simulated_emg.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/demo/simulated_emg.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/superlets_package" beforeDir="false" afterPath="$PROJECT_DIR$/superlets_package" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/superlets_package/demo/demo.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/superlets_package/superlets/morlet.py" beforeDir="false" afterPath="$PROJECT_DIR$/superlets_package/morlet.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/superlets_package/superlets/superlets.py" beforeDir="false" afterPath="$PROJECT_DIR$/superlets_package/superlets.py" afterDir="false" />
@@ -17,6 +24,9 @@
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="45aaa4d9-6bad-4e12-8ce0-1a6b296426b3" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -33,6 +43,10 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/neuralrehabilitationgroup/PycharmProjects/Superlets-Marina&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -47,10 +61,47 @@
       <updated>1732282630457</updated>
       <workItem from="1732282631489" duration="222000" />
       <workItem from="1732282862662" duration="137000" />
+      <workItem from="1732283063207" duration="101000" />
+      <workItem from="1732283173397" duration="1972000" />
+      <workItem from="1732285177669" duration="223000" />
+      <workItem from="1732285564674" duration="5557000" />
+      <workItem from="1732293078444" duration="1808000" />
+      <workItem from="1732529682095" duration="34517000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/neuralrehabilitationgroup/PycharmProjects/Superlets-Marina/demo/simulated_emg.ipynb</url>
+          <line>402</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/neuralrehabilitationgroup/PycharmProjects/Superlets-Marina/demo/simulated_emg.ipynb</url>
+          <line>442</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/neuralrehabilitationgroup/PycharmProjects/Superlets-Marina/demo/simulated_emg.ipynb</url>
+          <line>660</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/neuralrehabilitationgroup/PycharmProjects/Superlets-Marina/demo/simulated_emg.ipynb</url>
+          <line>781</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/neuralrehabilitationgroup/PycharmProjects/Superlets-Marina/demo/simulated_emg.ipynb</url>
+          <line>797</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

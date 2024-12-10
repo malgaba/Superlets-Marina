@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e99ae726-491d-43d9-8b35-b531b9b2fd51" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/superlets_package/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/simulated_emg.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/demo/simulated_emg.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/superlets_package" beforeDir="false" afterPath="$PROJECT_DIR$/superlets_package" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/superlets_package/demo/demo.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/superlets_package/superlets/morlet.py" beforeDir="false" afterPath="$PROJECT_DIR$/superlets_package/morlet.py" afterDir="false" />
@@ -81,7 +83,7 @@
       <workItem from="1733485767540" duration="159000" />
       <workItem from="1733734927517" duration="22420000" />
       <workItem from="1733824785391" duration="1807000" />
-      <workItem from="1733831038634" duration="2194000" />
+      <workItem from="1733831038634" duration="2730000" />
     </task>
     <servers />
   </component>

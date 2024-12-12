@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e99ae726-491d-43d9-8b35-b531b9b2fd51" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/RESULTS/110.98 Hz/InfdB_stft_38.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/superlets_package/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/superlets_package/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/superlets_package/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/superlets_package/morlet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/superlets_package/superlets.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/burst_1s_matlab.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/simulated_emg.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/demo/simulated_emg.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/simulated_emg_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/demo/simulated_emg_2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,25 +33,29 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2pCuyBI2Zu8cjeovUG6qyf81y25" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/neuralrehabilitationgroup/PycharmProjects/Superlets-Marina/demo&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/neuralrehabilitationgroup/PycharmProjects/Superlets-Marina/demo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/demo" />
@@ -83,12 +91,15 @@
       <workItem from="1733831038634" duration="4048000" />
       <workItem from="1733840353950" duration="6166000" />
       <workItem from="1733907661667" duration="21658000" />
-      <workItem from="1733993760057" duration="5127000" />
+      <workItem from="1733993760057" duration="7507000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -120,7 +131,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook:///Users/neuralrehabilitationgroup/PycharmProjects/Superlets-Marina/demo/simulated_emg_2.ipynb</url>
-          <line>1170</line>
+          <line>1272</line>
           <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
@@ -132,6 +143,11 @@
           <url>notebook:///Users/neuralrehabilitationgroup/PycharmProjects/Superlets-Marina/demo/simulated_emg_2.ipynb</url>
           <line>151</line>
           <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" log-message="true" suspend="NONE" type="jupyter-line">
+          <url>notebook:///Users/neuralrehabilitationgroup/PycharmProjects/Superlets-Marina/demo/simulated_emg_2.ipynb</url>
+          <line>777</line>
+          <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/superlets_package/superlets.py</url>

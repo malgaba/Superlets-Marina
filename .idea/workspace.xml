@@ -21,6 +21,9 @@
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="45aaa4d9-6bad-4e12-8ce0-1a6b296426b3" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/opt/anaconda3/envs/ictus-synergies/lib/python3.8/site-packages/IPython/core/interactiveshell.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -35,22 +38,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/neuralrehabilitationgroup/PycharmProjects/Superlets-Marina/demo",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/neuralrehabilitationgroup/PycharmProjects/Superlets-Marina/demo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/demo" />
@@ -86,7 +89,12 @@
       <workItem from="1733831038634" duration="4048000" />
       <workItem from="1733840353950" duration="6166000" />
       <workItem from="1733907661667" duration="21658000" />
-      <workItem from="1733993760057" duration="17273000" />
+      <workItem from="1733993760057" duration="17879000" />
+      <workItem from="1734079120824" duration="10210000" />
+      <workItem from="1739184044780" duration="3082000" />
+      <workItem from="1739260228184" duration="21958000" />
+      <workItem from="1739356936261" duration="1064000" />
+      <workItem from="1739358022350" duration="4496000" />
     </task>
     <task id="LOCAL-00001" summary="Resolution in time">
       <option name="closed" value="true" />
@@ -150,16 +158,6 @@
           <url>notebook:///Users/neuralrehabilitationgroup/PycharmProjects/Superlets-Marina/demo/simulated_emg.ipynb</url>
           <line>882</line>
           <option name="timeStamp" value="38" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>notebook:///Users/neuralrehabilitationgroup/PycharmProjects/Superlets-Marina/demo/simulated_emg_2.ipynb</url>
-          <line>151</line>
-          <option name="timeStamp" value="42" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" log-message="true" suspend="NONE" type="jupyter-line">
-          <url>notebook:///Users/neuralrehabilitationgroup/PycharmProjects/Superlets-Marina/demo/simulated_emg_2.ipynb</url>
-          <line>788</line>
-          <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/superlets_package/superlets.py</url>

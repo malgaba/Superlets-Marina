@@ -5,17 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e99ae726-491d-43d9-8b35-b531b9b2fd51" name="Changes" comment="Resolution in time">
+      <change afterPath="$PROJECT_DIR$/RESULTS/signal_burst_1.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/new.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/new_comparison_superlet.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/new_comparison_superlet_2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/simulated_emg_3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/simulated_emg_4.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/simulated_emg_5.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/simulated_emg_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/demo/simulated_emg_2.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/superlets_package" beforeDir="false" afterPath="$PROJECT_DIR$/superlets_package" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/superlets_package/superlets.py" beforeDir="false" afterPath="$PROJECT_DIR$/superlets_package/superlets.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/superlets_package" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GithubDefaultAccount">
@@ -94,7 +109,36 @@
       <workItem from="1739184044780" duration="3082000" />
       <workItem from="1739260228184" duration="21958000" />
       <workItem from="1739356936261" duration="1064000" />
-      <workItem from="1739358022350" duration="4496000" />
+      <workItem from="1739358022350" duration="6320000" />
+      <workItem from="1739521682155" duration="1311000" />
+      <workItem from="1739524237895" duration="269000" />
+      <workItem from="1739788400037" duration="17715000" />
+      <workItem from="1739968131866" duration="1294000" />
+      <workItem from="1739969443922" duration="11605000" />
+      <workItem from="1740384582971" duration="8000" />
+      <workItem from="1740494380980" duration="2203000" />
+      <workItem from="1740557420217" duration="3330000" />
+      <workItem from="1740562212772" duration="128000" />
+      <workItem from="1740562431689" duration="12523000" />
+      <workItem from="1740645595183" duration="2050000" />
+      <workItem from="1740648612667" duration="6567000" />
+      <workItem from="1740655461472" duration="6632000" />
+      <workItem from="1740662518151" duration="8760000" />
+      <workItem from="1740673093514" duration="1044000" />
+      <workItem from="1740674590042" duration="2399000" />
+      <workItem from="1740677037575" duration="43000" />
+      <workItem from="1740677094592" duration="1425000" />
+      <workItem from="1740678561241" duration="1175000" />
+      <workItem from="1740679866406" duration="762000" />
+      <workItem from="1740680692364" duration="1026000" />
+      <workItem from="1740733142368" duration="11933000" />
+      <workItem from="1740996436041" duration="19394000" />
+      <workItem from="1741106207237" duration="155000" />
+      <workItem from="1741344853846" duration="15419000" />
+      <workItem from="1741544446436" duration="2943000" />
+      <workItem from="1741598345786" duration="23888000" />
+      <workItem from="1741697919156" duration="11456000" />
+      <workItem from="1741775460974" duration="6374000" />
     </task>
     <task id="LOCAL-00001" summary="Resolution in time">
       <option name="closed" value="true" />
@@ -159,24 +203,64 @@
           <line>882</line>
           <option name="timeStamp" value="38" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/neuralrehabilitationgroup/PycharmProjects/Superlets-Marina/demo/simulated_emg_4.ipynb</url>
+          <line>335</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/neuralrehabilitationgroup/PycharmProjects/Superlets-Marina/demo/new_comparison_superlet_1.ipynb</url>
+          <line>158</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/neuralrehabilitationgroup/PycharmProjects/Superlets-Marina/demo/new_comparison_superlet_2.ipynb</url>
+          <line>525</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/neuralrehabilitationgroup/PycharmProjects/Superlets-Marina/demo/new_comparison_superlet.ipynb</url>
+          <line>36</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/neuralrehabilitationgroup/PycharmProjects/Superlets-Marina/demo/new_comparison_superlet.ipynb</url>
+          <line>2046</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/neuralrehabilitationgroup/PycharmProjects/Superlets-Marina/demo/new_comparison_superlet.ipynb</url>
+          <line>2053</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/neuralrehabilitationgroup/PycharmProjects/Superlets-Marina/demo/new_comparison_superlet.ipynb</url>
+          <line>257</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/neuralrehabilitationgroup/PycharmProjects/Superlets-Marina/demo/new_comparison_superlet.ipynb</url>
+          <line>637</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/superlets_package/superlets.py</url>
-          <line>220</line>
+          <line>207</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/superlets_package/superlets.py</url>
-          <line>216</line>
+          <line>203</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/superlets_package/superlets.py</url>
-          <line>335</line>
+          <line>317</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/superlets_package/superlets.py</url>
-          <line>273</line>
+          <line>260</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -186,13 +270,33 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/superlets_package/superlets.py</url>
-          <line>12</line>
+          <line>11</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/superlets_package/superlets.py</url>
-          <line>368</line>
+          <line>350</line>
           <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/superlets_package/superlets.py</url>
+          <line>635</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/superlets_package/superlets.py</url>
+          <line>685</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/superlets_package/superlets.py</url>
+          <line>750</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/superlets_package/superlets.py</url>
+          <line>485</line>
+          <option name="timeStamp" value="77" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
